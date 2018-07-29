@@ -1,0 +1,15 @@
+*.aux
+*.bbl
+*.bib.bak
+*.blg
+*.brf
+*.glg
+*.glo
+*.gls
+*.idx
+*.ist
+*.log
+*.synctex.gz
+*.xdy
+*.toc
+/Lapa.bibtex
